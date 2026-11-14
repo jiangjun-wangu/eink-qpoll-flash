@@ -1,0 +1,15 @@
+# build outputs
+build/
+*.apk
+*.keystore
+*.dex
+
+# macOS
+.DS_Store
+
+# staged assets produced at build time
+apk-assets/
+
+assets/frida-inject-17.24.0-android-arm64.xz
+
+assets/frida-inject-17.24.0-android-arm64.xz
